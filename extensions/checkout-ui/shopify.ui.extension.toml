@@ -1,0 +1,8 @@
+type = "checkout_ui_extension"
+name = "Tariff Guard"
+
+[[extensions]]
+type = "checkout_ui_extension"
+handle = "tariff-guard"
+
+[extensions.settings] 
